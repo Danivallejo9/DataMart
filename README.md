@@ -1,4 +1,5 @@
 Proyecto de Migración de Datos y Creación de Data Mart
+
 Descripción del Proyecto
 Este proyecto tiene como objetivo la migración de datos desde la base de datos Jardinería hacia una base de datos Staging y, posteriormente, la creación de un Data Mart utilizando el modelo estrella. Este proceso incluye la extracción, transformación y carga (ETL) de los datos, asegurando su integridad y calidad para un análisis eficiente. El modelo estrella propuesto facilita la organización y análisis de las ventas, proporcionando una estructura centralizada que integra datos de productos, clientes, tiempo, pedidos y detalles de pedidos.
 
