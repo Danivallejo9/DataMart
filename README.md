@@ -33,10 +33,15 @@ DimDetallePedido: Detalles específicos de los pedidos.
 FACTVentas: Tabla de hechos que registra las ventas.
 
 Participantes del Proyecto
+
 Kelly Vega Morales (94)
+
 Yampier Ruiz Patiño (94)
+
 Shamir Tano Morales (76)
+
 Daniela Vallejo Bustamante (94)
+
 
 Conclusiones
 El modelo estrella implementado proporciona una estructura eficiente para el análisis de ventas, facilitando la generación de informes y análisis detallados. La migración de datos hacia la base de datos Staging y su posterior carga en el Data Mart garantizan una consulta óptima y confiable, cumpliendo con los requerimientos del cliente y mejorando la toma de decisiones basada en datos.
